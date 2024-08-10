@@ -1,0 +1,5 @@
+[2024-03-04 19:57:59,772] 112 root - INFO - creating response
+[2024-03-04 19:58:11,858] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-03-04 19:58:18,306] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-03-04 19:58:18,312] 122 root - INFO - created resonse
+[2024-03-04 19:58:18,319] 131 root - INFO - Total cost{cb.total_cost}

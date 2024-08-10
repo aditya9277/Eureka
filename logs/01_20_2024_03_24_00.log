@@ -1,0 +1,15 @@
+[2024-01-20 03:55:52,125] 35 root - INFO - creating response
+[2024-01-20 03:56:03,112] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-20 03:56:06,232] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-20 03:56:06,239] 45 root - INFO - created resonse
+[2024-01-20 03:56:06,240] 54 root - INFO - Total cost{cb.total_cost}
+[2024-01-20 04:01:20,735] 35 root - INFO - creating response
+[2024-01-20 04:01:31,489] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-20 04:01:33,935] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-20 04:01:33,942] 45 root - INFO - created resonse
+[2024-01-20 04:01:33,943] 54 root - INFO - Total cost{cb.total_cost}
+[2024-01-20 04:06:25,670] 35 root - INFO - creating response
+[2024-01-20 04:06:35,279] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-20 04:06:38,279] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-01-20 04:06:38,285] 45 root - INFO - created resonse
+[2024-01-20 04:06:38,286] 54 root - INFO - Total cost{cb.total_cost}

@@ -1,0 +1,54 @@
+8051 is one of the first and most popular microcontrollers also known as MCS-51. Intel introduced it in the year 1981. Initially, it came out as an N-type metal-oxide-semiconductor (NMOS) based microcontroller, but later versions were based on complementary metal-oxide-semiconductor(CMOS) technology. These microcontrollers were named 80C51, where C in the name tells that it is based on CMOS technology. It is an 8-bit microcontroller which means the data bus is 8-bit. Therefore, it can process 8 bits at a time. It is used in a wide variety of embedded systems like robotics, remote controls, the automotive industry, telecom applications, power tools, etc. 
+
+
+It is referred to as a System on a Chip (SoC) microcontroller because it is a chip circuit/integrated circuit that holds many components of a computer together on a single chip. These components include a CPU, memory, input-output ports(I/O ports), timers, and secondary storage. Features – There are some key features of 8051 that work as a foundation for students to learn microcontrollers. 
+
+8051 μc family member –
+8051 μc have some family members 8052 microcontroller & 8031 microcontroller. 8052μc has 8K bytes of on-chip program ROM instead of 4K bytes, and 128 bytes of RAM. and 8031μc has 0K bytes of on-chip program ROM, and 128 bytes of RAM.
+
+The Key features of the 8051 Microcontroller –
+4 KB on-chip ROM (Program memory).
+128 bytes on-chip RAM (Data memory).
+The 8-bit data bus (bidirectional).
+16-bit address bus (unidirectional).
+Two 16-bit timers.
+Instruction cycle of 1 microsecond with 12 MHz crystal.
+Four 8-bit input/output ports.
+128 user-defined flags.
+Four register banks of 8 bit each.
+16-byte bit-addressable RAM.
+The general purpose registers are 32 each is 8-bit.
+8051 has two external and three internal interrupts.
+8051 microcontroller specifies some special function features like UARTs, ADC, Op-amp, etc.
+It has a 16-bit program counter and data pointer.
+Block Diagram of 8051 μc  –
+
+Block-Structure Diagram
+
+Application of 8051 Microcontroller –
+Automation: The 8051 microcontroller is widely used in automotive applications.
+They are widely used in hybrid vehicles to control engine options. In addition, functions such as cruise control and anti-brake mechanism have been further enhanced thanks to the integration of a microcontroller.
+Medical Devices: Convenient medical devices such as blood glucose and blood pressure monitors contain microcontrollers that display measurements.
+Energy management: Competent measurement systems support energy consumption calculations in home and industrial environments. These measuring systems are prepared by integrating a microcontroller.
+Touch Screen: Many microcontroller vendors incorporate touch functionality into their designs. Portable devices such as media players, and gaming devices.
+Uses of 8051 Microcontroller :
+
+Here are some of the most common uses of the 8051 microcontroller:
+
+Embedded Systems: The 8051 microcontroller is commonly used in embedded systems, such as home automation systems, security systems, and industrial control systems. Its low cost, small size, and ease of programming make it an ideal choice for these applications.
+Automotive Systems: The 8051 microcontroller is used in automotive systems, such as engine control units, anti-lock braking systems, and airbag systems, to control various functions and ensure safe and efficient operation.
+Robotics: The 8051 microcontroller is used in robotics applications to control the movement and operation of robots. It is commonly used to control the motors, sensors, and other peripherals of the robot.
+Consumer Electronics: The 8051 microcontroller is used in a variety of consumer electronics products, such as digital cameras, gaming systems, and audio players. It is commonly used to control the user interface, display, and other peripherals of these devices.
+Communication Systems: The 8051 microcontroller is used in communication systems, such as modems, routers, and switches, to control the data transfer and communication protocols.
+Medical Devices: The 8051 microcontroller is used in medical devices, such as insulin pumps, heart monitors, and blood glucose meters, to control various functions and provide accurate and reliable results.
+Industrial Control Systems: The 8051 microcontroller is used in industrial control systems, such as process control systems and manufacturing equipment, to control and monitor various processes and operations.
+ 
+Issues in 8051 Microcontroller :
+
+Here are some of the common issues in the 8051 microcontroller:
+
+Limited Memory: The 8051 microcontroller has limited program memory and data memory. The program memory is typically 4 KB or 8 KB, and the data memory is typically 128 bytes or 256 bytes. This limitation can be an issue when developing complex applications that require more memory.
+Limited Processing Power: The 8051 microcontroller has limited processing power compared to modern microcontrollers. Its clock speed is typically between 12 MHz and 24 MHz, and its instruction set is limited. This limitation can be an issue when developing complex applications that require high processing power.
+Limited Peripheral Support: The 8051 microcontroller has limited support for peripherals compared to modern microcontrollers. It has a limited number of input/output pins, and its communication interfaces are limited. This limitation can be an issue when developing applications that require a large number of peripherals.
+Limited Development Tools: The development tools for the 8051 microcontroller are limited compared to modern microcontrollers. The available compilers, debuggers, and simulators are not as advanced as those available for modern microcontrollers. This limitation can be an issue when developing complex applications that require advanced development tools.
+Limited Security Features: The 8051 microcontroller has limited security features compared to modern microcontrollers. It does not have hardware security features, such as memory protection and encryption, which can be an issue in applications that require high security.

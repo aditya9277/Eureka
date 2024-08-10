@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the data bus width of the 8051 microcontroller?,a: 4-bit | b: 8-bit | c: 16-bit | d: 32-bit,b
+Which technology was initially used in the 8051 microcontroller?,a: CMOS | b: NMOS | c: PMOS | d: DMOS,b
+What is the size of the on-chip program ROM in the 8051 microcontroller?,a: 2 KB | b: 4 KB | c: 8 KB | d: 16 KB,b
+How many 16-bit timers are there in the 8051 microcontroller?,a: 1 | b: 2 | c: 3 | d: 4,b
+What is the purpose of the 8051 microcontroller's on-chip RAM?,a: Program memory | b: Data memory | c: Instruction memory | d: Cache memory,b
